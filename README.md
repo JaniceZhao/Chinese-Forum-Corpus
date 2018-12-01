@@ -26,7 +26,16 @@ An example from each subject is shown in the following table:
 3. The dataset is **only** for study and research purposes. Without permission, it may not be used for any commercial purposes
 4. Redistribution is **NOT** allowed
 4. Some items must be deleted if the copyright owners claim
-5. If you want to use the dataset for depth study, please cite this paper: TBD
+5. If you want to use the dataset for depth study, please cite this paper: 
+
+```
+@article{zhao2018lsicc,
+  title={LSICC: A Large Scale Informal Chinese Corpus},
+  author={Zhao, Jianyu and Ji, Zhuoran},
+  journal={arXiv preprint arXiv:1811.10167},
+  year={2018}
+}
+```
 
 # Date Download
 
